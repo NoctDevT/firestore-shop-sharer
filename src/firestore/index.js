@@ -5,12 +5,12 @@ import "firebase/storage";
 
 
 var firebaseConfig = {
-    apiKey: "AIzaSyCrja7SRQSdlIeIzGu377TLAQRhPiTHOHk",
-    authDomain: "react-starter-e3f17.firebaseapp.com",
-    projectId: "react-starter-e3f17",
-    storageBucket: "react-starter-e3f17.appspot.com",
-    messagingSenderId: "650359640101",
-    appId: "1:650359640101:web:d0f170a67892d50642afcc"
+    apiKey: "",
+    authDomain: "",
+    projectId: "",
+    storageBucket: "",
+    messagingSenderId: "",
+    appId: ""
   };
 
   // Initialize Firebase
